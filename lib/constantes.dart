@@ -1,0 +1,1 @@
+const kCircleRadius = 52.0;
