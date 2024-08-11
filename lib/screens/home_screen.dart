@@ -167,7 +167,7 @@ class HomeScreen extends StatelessWidget {
               children: [Text('•', style: TextStyle(fontSize: 30),), SizedBox(width: 6,),Text('•', style: TextStyle(fontSize: 30, color: Colors.grey))],),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: [Icon(FontAwesomeIcons.longArrowAltDown, color: Colors.blueGrey,), Icon(FontAwesomeIcons.whatsapp, color: Colors.blue,), Icon(FontAwesomeIcons.whatsapp, color: Colors.purple,), Icon(FontAwesomeIcons.whatsapp, color: Colors.blue,), Icon(FontAwesomeIcons.phone, color: Colors.green,)],
+              children: [Icon(FontAwesomeIcons.longArrowAltDown, color: Colors.blueGrey,), Icon(FontAwesomeIcons.whatsapp, color: Colors.blue,), Icon(FontAwesomeIcons.whatsapp, color: Colors.purple,), Icon(FontAwesomeIcons.whatsapp, color: Colors.blue,), Icon(FontAwesomeIcons.whatsapp, color: Colors.green,)],
             )
           ],
         ),
